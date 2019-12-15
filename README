@@ -1,0 +1,16 @@
+Windows build:
+
+Create a folder, for example:
+    C:\Users\<user>\Desktop\workspaces\go\projects\src\serpent
+and copy the sources in the folder.
+
+Set the environment variable GOPATH:
+    set GOPATH=C:\Users\<user>\Desktop\workspaces\go\projects
+
+Type:
+    go install serpent/main
+
+To run the program type:
+    C:\Users\<user>\Desktop\workspaces\go\projects\bin
+    .\main.exe
+    
